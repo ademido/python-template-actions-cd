@@ -5,3 +5,4 @@ This is a project to set a template for Python it was setup at AWS Cloud9
 
 [![Azure Python 3.7.16](https://github.com/ademido/scaffold/actions/workflows/azure.yml/badge.svg)](https://github.com/ademido/scaffold/actions/workflows/azure.yml)
 
+[![GCP Python 3.9.16](https://github.com/ademido/scaffold/actions/workflows/gcp.yml/badge.svg)](https://github.com/ademido/scaffold/actions/workflows/gcp.yml)
