@@ -16,11 +16,12 @@ format:
 
 
 lint:
-	pylint --disable=R,C hello.py
+	pylint --disable=R,C *.py
 
 
 test:
-	python -m pytest -vv --cov=hello test_hello.py
+	python -m pytest -vv --cov=hello test_*.py
+#	python -m pytest -vv --cov=hello test_sort-program.py
 
 
 all: install-aws lint test
